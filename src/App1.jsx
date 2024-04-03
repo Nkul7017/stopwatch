@@ -41,8 +41,8 @@ function App1() {
     setToggle(false);
     }
   return (
-    <div className='w-screen bg-red-200  h-screen grid place-content-center'>
-        <div className=' flex flex-col shadow-2xl  gap-y-5 border border-black p-28  rounded-md  items-center'>
+    <div className='w-screen bg-gray-400  h-screen grid place-content-center'>
+        <div className=' bg-white flex flex-col shadow-2xl  gap-y-5  p-10 sm:p-28  rounded-md  items-center'>
             <h1 className='text-[30px] font-bold'>Stop Watch</h1>
     <div className='flex items-center gap-2'>
         <div className='flex flex-col'>
